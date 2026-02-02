@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario - Devices Exposed to the Internet](https://github.com/dcothell/Devices-Exposed-to-Internet)**
 - **[Threat Hunting Scenario - Sudden Network Slowdown](https://github.com/dcothell/sudden-network-slowdown)**
-- **[Threat Hunting Scenario - Suspected Data Exfiltration from PIP'd Employee](https://github.com/dcothell/DataExfiltration)**
+- **[Threat Hunting Scenario - Suspected Data Exfiltration from PIP'd Employee](https://github.com/dcothell/Data-Exfiltration)**
 
 <hr/>
 
