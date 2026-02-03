@@ -13,6 +13,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario - Sudden Network Slowdown](https://github.com/dcothell/sudden-network-slowdown)**
 - **[Threat Hunting Scenario - Suspected Data Exfiltration from PIP'd Employee](https://github.com/dcothell/Data-Exfiltration)**
 
+## 🛡️ Incident Response with Microsoft Sentinel
+
+- **[Incident Response Scenario - Brute Force Detection](https://github.com/dcothell/brute-force-detection)**
+
 <hr/>
 
 ## 🤳 Connect With Me
