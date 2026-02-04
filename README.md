@@ -16,6 +16,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🛡️ Incident Response with Microsoft Sentinel
 
 - **[Incident Response Scenario - Brute Force Detection](https://github.com/dcothell/brute-force-detection)**
+- **[Incident Response Scenario - PowerShell Web Request Incident](https://github.com/dcothell/powershell-web-request)**
+
 
 <hr/>
 
