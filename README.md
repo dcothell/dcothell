@@ -17,6 +17,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Incident Response Scenario - Brute Force Detection](https://github.com/dcothell/brute-force-detection)**
 - **[Incident Response Scenario - PowerShell Web Request Incident](https://github.com/dcothell/powershell-web-request)**
+- **[Incident Response Scenario - Potential Impossible Travel](https://github.com/dcothell/impossible-travel)**
 
 
 <hr/>
